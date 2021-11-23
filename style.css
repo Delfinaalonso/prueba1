@@ -23,6 +23,8 @@ body { background-color: blanchedalmond;font-family:'oswald' , sans-serif;
     transition-property: all; transition: 1s; font-weight: bold;}
 .navbar-light .navbar-nav .nav-link:hover {color:  #11bbb5;transform: scale(1.2, 1.2);}
 
+.navbar-light .navbar-toggler {border: none; color: white;}
+
  a p{transition-timing-function: ease; 
     transition-property: all; transition: 1s; }
 a:hover {color:  #11bbb5;}
